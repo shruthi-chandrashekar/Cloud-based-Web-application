@@ -1,0 +1,4 @@
+Flask 
+Requests
+Flask-Cors
+apscheduler
